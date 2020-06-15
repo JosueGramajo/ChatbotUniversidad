@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gramajo.josue.chatbot.MainActivity">
+    <item
+    android:id="@+id/action_messages"
+    android:orderInCategory="100"
+    android:title="Copiar mensajes"
+    app:showAsAction="never" />
+    <item
+        android:id="@+id/action_questions"
+        android:orderInCategory="100"
+        android:title="Copiar Json de arbol"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/update_firestore"
+        android:orderInCategory="100"
+        android:title="Actualizar Firestore"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/update_tree"
+        android:orderInCategory="100"
+        android:title="Actualizar Arbol"
+        app:showAsAction="never" />
+</menu>
