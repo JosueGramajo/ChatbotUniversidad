@@ -1,6 +1,6 @@
 # ChatBot
 
-Esta es una aplicación es un ChatBot, hecha para dispositivos móviles Adroid y que presenta ayuda con las consultas referentes a tarjetas de crédito
+Esta es una aplicación es un ChatBot, hecha para dispositivos móviles Android y que presenta ayuda con las consultas referentes a recomendaciones de Universidades y Facultades segun una serie de preguntas.
 
 ![alt text](https://github.com/JosueGramajo/ChatBot/blob/master/DOCUMENTACION/screenshots/4.png)
 
@@ -14,6 +14,3 @@ La aplicación de Chatbot está destinada a trabajar como un asesor  en el tema 
 
 ## Diagrama de Clases
 ![alt text](https://github.com/JosueGramajo/ChatBot/blob/master/DOCUMENTACION/DiagramaDeClases.png)
-
-## Diagrama de Casos de uso
-![alt text](https://github.com/JosueGramajo/ChatBot/blob/master/DOCUMENTACION/CasosDeUso.png)
